@@ -1,0 +1,4 @@
+theia@theia-mubarafatima:/home/project/git-practice$ git branch -a > github-branches.txt
+theia@theia-mubarafatima:/home/project/git-practice$ cat github-branches.txt
+  bug-fix-typo
+* main
